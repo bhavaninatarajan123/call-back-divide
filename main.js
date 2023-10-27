@@ -9,4 +9,4 @@ divide=(x,y)=>{
     let z=x/y
     document.write(`the division of two numbers are ${z}`)
 }
-operation(a,b,divide8
+operation(a,b,divide)
